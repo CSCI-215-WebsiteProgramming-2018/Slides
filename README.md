@@ -13,3 +13,5 @@ Slides from lecture
 * [Data Containers cont](https://docs.google.com/presentation/d/18J4b9TgnKcftq5q2E6VsKr0IUB3eq7B-wWwQlmMy-Hw/edit?usp=sharing)
 * [Data-StorageI-Preferences](https://docs.google.com/presentation/d/1n2zpLeUqulSMnh3eKybsIMvgbQFOuziDivLwfHnVCFA/edit?usp=sharing)
 * [Data-StorageII-Files](https://docs.google.com/presentation/d/138Vpfz_9OHc4FUdUq4wmdSoiC5cTRxiHLQu2ROUF_qI/edit?usp=sharing)
+* [Networking and AsyncTask](https://docs.google.com/presentation/d/1Y_HH1JaE2iYZHNQ0c5kwLdf1P57aWvfnPH86KVDzseM/edit?usp=sharing)
+* [AsyncTask](https://docs.google.com/presentation/d/1NDqtZer-NO0rZWWIbDsIOQ3Ld198nc1hKY5ewOA9pPA/edit?usp=sharing)
